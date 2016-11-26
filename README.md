@@ -11,7 +11,7 @@ Assignment 4 : Linear Regression
 
 Python 2.7
 
-## Usage / Running the program - minmax and minmax with alpha-beta pruning
+## Usage / Running the program 
 
 Main file is lin_regr.py
 
