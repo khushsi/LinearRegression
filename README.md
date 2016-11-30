@@ -9,7 +9,8 @@ Assignment 4 : Linear Regression
 
 ## Requirements
 
-Python 2.7
+Python 2.7 
+numpy
 
 ## Usage / Running the program 
 
